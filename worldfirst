@@ -1,0 +1,15 @@
+# ===== 金融体系强制直连（放最前面） =====
+
+# WorldFirst / 万里汇
+DOMAIN-SUFFIX,worldfirst.com,DIRECT
+DOMAIN-SUFFIX,worldfirst.com.cn,DIRECT
+DOMAIN-KEYWORD,worldfirst,DIRECT
+
+# 支付宝体系
+DOMAIN-SUFFIX,alipay.com,DIRECT
+DOMAIN-SUFFIX,alipayobjects.com,DIRECT
+DOMAIN-SUFFIX,alipayplus.com,DIRECT
+DOMAIN-SUFFIX,antfin.com,DIRECT
+DOMAIN-SUFFIX,antgroup.com,DIRECT
+DOMAIN-SUFFIX,mybank.cn,DIRECT
+DOMAIN-KEYWORD,alipay,DIRECT
